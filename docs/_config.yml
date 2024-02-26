@@ -1,5 +1,5 @@
 # Build settings
-# baseurl: "/besoin"
+baseurl: "/lab-unit-test"
 
 # lsi: false
 # safe: true
